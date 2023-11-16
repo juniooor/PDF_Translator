@@ -12,5 +12,4 @@ for page in reader.pages:
         traducao = translator.translate(linha)
         print(traducao, '\n')
  
-    print('LINHA outside')
    
